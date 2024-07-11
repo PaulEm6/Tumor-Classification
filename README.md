@@ -1,6 +1,3 @@
-# Creating the README file with the provided content
-
-readme_content = """
 # Tumor-Classification
 
 Welcome to the Tumor-Classification project! In this repository, we focus on the classification of MRI images of brain tumors. Our goal is to determine whether an MRI scan contains a type of tumor or no tumor at all.
